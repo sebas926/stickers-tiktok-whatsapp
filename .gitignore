@@ -1,0 +1,17 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Sesión del navegador (contiene cookies de tu cuenta — NO subir)
+.browser_profile/
+
+# Salidas generadas
+stickers_raw/
+stickers_ready/
+pack/
+stickers-pack.zip
+qr.png
+
+# Python
+__pycache__/
+*.pyc
